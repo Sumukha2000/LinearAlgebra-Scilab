@@ -1,1 +1,9 @@
 # LinearAlgebra-Scilab
+
+NAME: SUMUKHA MK
+
+SRN: PES1201801995
+
+CLASS: 4I
+
+ROLL NO:53
